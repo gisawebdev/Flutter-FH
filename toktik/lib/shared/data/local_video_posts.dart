@@ -36,12 +36,6 @@ List<Map<String, dynamic>> videoPosts = [
     'views': 330,
   },
   {
-    'name': 'Limpiar nunca fue tan divertido',
-    'videoUrl': 'assets/videos/7.mp4',
-    'likes': 1320,
-    'views': 33032,
-  },
-  {
     'name': '¿Ya llegamos a la India?... umm si',
     'videoUrl': 'assets/videos/8.mp4',
     'likes': 342,
