@@ -43,7 +43,7 @@ class _ButtonsView extends StatelessWidget {
             ),
             const ElevatedButton(
               onPressed: null,
-              child: const Text('Elevated Button'),
+              child: Text('Elevated Button'),
             ),
             ElevatedButton.icon(
               onPressed: () {},
