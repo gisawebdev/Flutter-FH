@@ -8,6 +8,7 @@ environment:
 
 dependencies:
   animate_do: ^4.2.0
+  colornames: ^0.2.0
   flutter:
     sdk: flutter
   flutter_riverpod: ^2.6.1
